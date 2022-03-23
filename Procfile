@@ -1,1 +1,1 @@
-worker: python AccGenEddited.py
+worker: python testgen3.py
